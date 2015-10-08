@@ -47,6 +47,41 @@ Zadanie dla Lodz i Krakow - analogicznie do poprzedniego cwiczenia realizujemy p
 
 3. Wyswietlamy wszystko w klasie Start w metodzie main
 
+---------------------------------------
+
+Zadanie dla Lodz i Krakow - analogicznie do poprzedniego cwiczenia realizujemy ponizsze:
+
+1. klasa Klawiatura
+- String przycisk
+
+
+2. klasa Komputer
+String ekran
+String kolor
+- ma w środku klawiature
+
+3. Wyswietlamy wszystko w klasie Start w metodzie main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
