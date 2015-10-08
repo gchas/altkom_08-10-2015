@@ -9,14 +9,27 @@ i uzyc w main
 
 --------------------------------------
 
-Analogicznie zrobic klase
+Analogicznie jak Person i Address zrobić poniższe:
+
 
 Zadanie dla Lódź:
-Samochod
+
+klasa Fotel {
+String wielkosc
+}
+
+klasa Samochod
+- ma w srodku dodatkowo Fotel
+
+
 
 Zadanie dla Krakow:
-Author
 
+klasa Ksiazka
+String tytul
+
+Author
+- ma w srodku dodatkowo Ksiazka
 
 
 
