@@ -1,0 +1,11 @@
+Klasa Person
+
+String imie;
+String nazwisko;
+String age;
+
+zrobićmetody get i set
+
+zrpboc konstruktor
+
+--------------------------------
