@@ -1,22 +1,22 @@
-Klasa Person
 
-String imie;
-String nazwisko;
-String age;
+Stworzyc klase Person
 
-zrobićmetody get i set
+dodac konstruktor argumentowy
 
-zrpboc konstruktor
+i uzyc w main
 
---------------------------------
+---to jest zrobione
 
-Stworzyc klase Samochod
+--------------------------------------
 
-String marka;
-String kolor;
+Analogicznie zrobic klase
 
-zrobic metody get i set
+Zadanie dla Lódź:
+Samochod
 
-zrobić konstruktor
+Zadanie dla Krakow:
+Author
 
----------------------------------
+
+
+
