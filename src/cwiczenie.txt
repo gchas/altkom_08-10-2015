@@ -9,3 +9,14 @@ zrobićmetody get i set
 zrpboc konstruktor
 
 --------------------------------
+
+Stworzyc klase Samochod
+
+String marka;
+String kolor;
+
+zrobic metody get i set
+
+zrobić konstruktor
+
+---------------------------------
